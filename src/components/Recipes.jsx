@@ -7,7 +7,7 @@ const Recipes = () => {
 
     const [recipes, setRecipes] = useState([])
     useEffect(()=> {
-        fetch('public/recipes.json')
+        fetch('dist/recipes.json')
             .then(res => res.json())
             .then(data => setRecipes(data))
     },[])

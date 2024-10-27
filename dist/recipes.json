@@ -1,0 +1,56 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken Salad",
+      "recipe_image": "public/image/Grilled_Chicken_Salad.png",
+      "short_description": "A healthy grilled chicken salad with fresh veggies.",
+      "ingredients": ["300 g chicken breast", "50 g mixed greens", "50 g cherry tomatoes", "30 g feta cheese", "30 ml olive oil"],
+      "preparing_time": "25",
+      "calories": "350"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "public/image/Spaghetti_Carbonara.webp",
+      "short_description": "Classic Italian pasta dish with creamy sauce and bacon.",
+      "ingredients": ["200 g spaghetti", "100 g pancetta", "50 g parmesan cheese", "2 large eggs", "30 ml olive oil"],
+      "preparing_time": "20",
+      "calories": "450"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "recipe_image": "public/image/Vegetable_StirFry.webp",
+      "short_description": "Quick and easy stir-fry with mixed vegetables.",
+      "ingredients": ["100 g bell peppers", "100 g broccoli", "50 g carrots", "30 ml soy sauce", "20 g sesame seeds"],
+      "preparing_time": "15",
+      "calories": "220"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "public/image/Beef_Tacos.jpg",
+      "short_description": "Savory beef tacos with a hint of spice and fresh toppings.",
+      "ingredients": ["300 g ground beef", "6 small tortillas", "50 g cheddar cheese", "50 g lettuce", "30 ml salsa"],
+      "preparing_time": "30",
+      "calories": "500"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Avocado Toast",
+      "recipe_image": "public/image/Avocado_Toast.webp",
+      "short_description": "Simple avocado toast with a sprinkle of seasoning.",
+      "ingredients": ["1 ripe avocado", "2 slices whole-grain bread", "10 g feta cheese", "5 g chili flakes", "5 ml olive oil"],
+      "preparing_time": "10",
+      "calories": "200"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Tomato Basil Soup",
+      "recipe_image": "public/image/Tomato_Basil_Soup.jpg",
+      "short_description": "Creamy tomato soup with fresh basil and a hint of garlic.",
+      "ingredients": ["500 g tomatoes", "100 ml cream", "30 g fresh basil", "2 cloves garlic", "30 ml olive oil"],
+      "preparing_time": "35",
+      "calories": "180"
+    }
+  ]
