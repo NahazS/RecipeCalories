@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-[32px] sm:text-[36px] md:text-[40px] lg:text-[48px] xl:text-[52px];
+}
+
+h2 {
+  @apply text-[24px] sm:text-[28px] md:text-[32px] lg:text-[36px] xl:text-[40px];
+}
+
+h3 {
+  @apply text-[20px] sm:text-[24px] md:text-[28px] lg:text-[30px] xl:text-[32px] font-bold;
+}
+
+h4 {
+  @apply text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] xl:text-[24px];
+}
+
+h5 {
+  @apply text-[14px] sm:text-[16px] md:text-[18px] lg:text-[19px] xl:text-[20px] font-semibold;
+}
+
+h6 {
+  @apply text-[12px] sm:text-[14px] md:text-[16px] lg:text-[17px] xl:text-[18px] font-medium;
+}
+
+p {
+  @apply text-[12px] sm:text-[13px] md:text-[14px] lg:text-[15px] xl:text-[16px];
+}
+.btn-primary{
+  @apply py-5 px-[30px] rounded-[50px] text-[20px] font-semibold
+}
+table th, td{
+  @apply text-[16px] font-medium text-[#878787] text-left
+}
